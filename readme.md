@@ -2,7 +2,9 @@
 
 <p align="center">Habits é uma aplicação web desenvolvida durante a NLW (Next Level Week) da Rocketseat, que permite ao usuário acompanhar seus hábitos graficamente, adicionando um dia de cada vez e marcando nas caixinhas se cumpriu os objetivos configurados, no caso, exercício, alimentação saudável, se hidratar, ler um livro e tomar seus remédios.</p>
 
-<img alt="preview" src="./github/home.svg">
+[Clique aqui para visitar o projeto](https://milaholanda.github.io/NLWHabits)
+
+<img alt="preview" src="./github/Home.svg">
 
 <b>Este projeto foi desenvolvido com as seguintes tecnologias:</b>
 - HTML
